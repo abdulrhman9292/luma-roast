@@ -12,6 +12,8 @@
 .DS_Store
 *.pem
 /images/
+/Product images/
+/video/
 
 # debug
 npm-debug.log*

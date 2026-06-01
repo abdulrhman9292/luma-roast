@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "LUMA ROAST | A slower way to arrive",
+  title: "LUMA ROAST | Private Portfolio Demo",
   description:
-    "A cinematic specialty coffee website for LUMA ROAST, shaped around ritual, signature coffees, and slow moments.",
+    "A premium cinematic portfolio demo for the fictional global specialty coffee brand LUMA ROAST.",
 };
 
 export default function RootLayout({
